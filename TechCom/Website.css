@@ -4,7 +4,7 @@
     src: url(Quicksand-Bold.ttf);
 }
 
-.TechCom{
+.TechCom {
     background-image: -webkit-gradient(linear, left top, left bottom, from(#82C3EC), to(#FDDE40));
     height: 100vh;
     background-attachment: fixed;
@@ -12,37 +12,33 @@
     background-color: #3B84B3; */
 }
 
-#TheDM{
+#TheDM {
     font-family: QuicksandBold;
-    background-color:#82C3EC;
+    background-color: #82C3EC;
     border-radius: 30px;
-
-    
     margin: auto;
     width: 65%;
     padding: 10px;
 }
 
-h2{
+h2 {
     text-decoration: underline;
     background-color: #3B84B3;
-    color:#FDDE40;
+    color: #FDDE40;
     border-radius: 15px;
     padding-left: 10px;
 }
 
-.health-bar-container{
-        position: fixed;
-        top: 0;
-        left: 0;
-        height: 100%;
-        width: 20px; /* adjust the width as needed */
-        background-color: #333;
-      }
-      
-      .health-bar {
-        height: 100%;
-        background-color: red;
-      
+.health-bar-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 20px; /* adjust the width as needed */
+    background-color: #333;
 }
 
+.health-bar {
+    height: 100%;
+    background-color: red;
+}
