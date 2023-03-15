@@ -42,3 +42,11 @@ h2 {
     height: 100%;
     background-color: red;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}
