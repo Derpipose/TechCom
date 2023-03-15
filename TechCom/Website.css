@@ -1,0 +1,23 @@
+
+@font-face {
+    font-family: QuicksandBold;
+    src: url(Quicksand-Bold.ttf);
+}
+
+.TechCom{
+    font-family: QuicksandBold;
+    background-color:#82C3EC;
+    border-radius: 30px;
+
+    
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+h2{
+    text-decoration: underline;
+    background-color: #3B84B3;
+    color:#FDDE40;
+}
+
