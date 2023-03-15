@@ -7,5 +7,5 @@ window.addEventListener('scroll', () => {
 
   const percentScrolled = (scrollTop / (scrollHeight - clientHeight)) * 100;
 
-  healthBar.style.height = '${100 - percentScrolled}%';
+    healthBar.style.height = `${100 - percentScrolled}%`;
 });
